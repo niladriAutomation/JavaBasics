@@ -1,0 +1,62 @@
+For Printing row number in patterns we use outerloop variable for .eg = i
+1111
+2222
+3333
+
+For Printing col number in patterns we use outerloop variable for e.g = j
+1234
+1234
+1234
+
+For Printing col number in patterns we use outerloop variable for decreasing  e.g = n+1 -j
+
+4321
+4321
+4321
+
+For Printing row number in patterns we use outerloop variable for decreasing  e.g = n+1-i
+
+4444
+3333
+2222
+
+ for triangle pattern for ascending means increase with row num then
+ then inner condition
+here initialize j = 1
+ j<=i
+
+ 1
+ 12
+ 123
+ 1234
+
+for triangle pattern for descending means decrease with row num then
+then inner condition
+here initialize j = i
+j<=n
+
+1234
+123
+12
+1
+
+store character = char abc = 'A' and to check char At.index(0)
+
+calculate power:
+10^8
+Math.pow(10,8)
+
+check the variable is lower or uppercase
+
+Character.isUpperCase
+
+for increasing count row wise we can use counter vriable = i (outer loop variable) as we can every row start with row number
+1234
+2345
+3456
+4567
+or
+1
+23
+345
+4567
