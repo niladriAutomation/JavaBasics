@@ -60,3 +60,19 @@ or
 23
 345
 4567
+
+// string to integer
+String s =String.valueOf();
+
+// integer to string
+int i = Integer.ParseInt(s)
+
+//Scanner
+ sc = sc.next() // prints one word of string
+ sc.nextLine() // prints whole String
+
+ // sc.hasNext() // check the count given by user
+ for e.g n given by use = 4
+ sc.hasNext() will check till 4
+
+
