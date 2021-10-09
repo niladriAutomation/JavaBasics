@@ -75,4 +75,30 @@ int i = Integer.ParseInt(s)
  for e.g n given by use = 4
  sc.hasNext() will check till 4
 
+//bitwise operator
+(2&3) AND
+(2&3) OR
+(2^3) XOR
+(2~3) NOT
+
+// leftside shift
+7<< left shift  by  1
+so in binary the first bit from left side will get removed and 0 will be added in extreme right side
+
+// Rightside shift
+7>> right shift  by  1
+so in binary the first bit from right  side will get removed and if the number is -ve 1 will be added in left and if it
+is +ve 0 will be added
+
+post increment a++; first print the value then increase
+pre increment ++a;   first increase then assign value to a
+
+post decrement a--;  first print the value then decrease
+pre decrement --a;   first decrease then assign value to a
+
+
+
+
+
+
 
