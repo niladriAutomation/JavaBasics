@@ -96,6 +96,35 @@ pre increment ++a;   first increase then assign value to a
 post decrement a--;  first print the value then decrease
 pre decrement --a;   first decrease then assign value to a
 
+//break - it will break the loop where break is mentioned
+// continue - it will stop that loop and the entire code that is present below and the loop will start with the new number
+
+array syntax
+int arr[] = new int[10]
+
+array index start from and last index = 9 as the number is 10
+// to read
+arr[3]
+array can be of
+char carr[] = new char[10] - initilaized carr[0] = null , and for writing carr[1] = 'a';
+double darr[] = new double[10] - initilaized darr[0] = 0.0
+
+ boolean arr[] = new boolean[5];
+ System.out.println(arr[0]);
+ ans = false
+
+//pass by value
+java is always pass by value
+bcoz same variable name in different functions are always different not same
+so one may contain 10 and another one may contain 11
+
+//java basically has 2 types prmitive and nonprimitive
+primitive are - int , char , double , boolean
+non primitive are - Scanner, array ,
+
+// garbage collector in java periodically and cleans every non used memories
+
+
 
 
 

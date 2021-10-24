@@ -9,7 +9,8 @@ public class calcualte {
 
         double  total = (num-percentage);
         System.out.println(total);
-        int var = (int) Math.pow(10,8);
+        int var = (int) Math.pow(2,0);
+        var = var*1;
         System.out.println(var);
 
     }
